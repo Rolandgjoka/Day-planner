@@ -15,4 +15,4 @@ The following image shows your planner 's appearance and functionality.
 ![Plannerdemo](./WorkDayScheduler.PNG)
 
 ## Installation
-[Project_Link] ()
+[Project_Link] (https://rolandgjoka.github.io/Day-planner/)
